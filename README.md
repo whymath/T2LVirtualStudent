@@ -1,2 +1,4 @@
-# T2LVirtualStudent
-RAG pipeline for the teach-to-learn virtual student prototype
+---
+license: gpl-3.0
+title: T2LVirtualStudent
+---
